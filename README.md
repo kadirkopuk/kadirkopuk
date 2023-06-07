@@ -23,7 +23,7 @@ I'm a frontend developer with a strong passion for enhancing user experiences. I
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td width="100%">
 
 - 🌍 Living in Antalya/Turkey  
   
