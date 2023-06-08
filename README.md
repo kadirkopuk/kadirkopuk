@@ -57,7 +57,7 @@ I'm a frontend developer with a strong passion for enhancing user experiences. I
   <a href="https://mui.com/" target="_blank">
     <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" />
   </a>
-  <div style="display: flex; align-items: flex-start;">
+  <div>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="67" height="67" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
