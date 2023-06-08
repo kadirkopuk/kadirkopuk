@@ -44,17 +44,38 @@ I'm a frontend developer with a strong passion for enhancing user experiences. I
 
 
 ## Languages and Tools  
-<div align="space-between">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a>  
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" /></div>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a> 
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="76" height="76" /></div>
-</div>  
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />
+  </a>
+  <a href="https://www.tailwindcss.com/" target="_blank">
+    <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" />
+  </a>
+  <a href="https://mui.com/" target="_blank">
+    <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" />
+  </a>
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="67" height="67" />
+  </div>
+  <a href="https://nodejs.org/" target="_blank">
+    <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />
+  </a>
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+    <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />
+  </a>
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="76" height="76" />
+  </div>
+</div>
 
 <br/>  
 
