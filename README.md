@@ -44,7 +44,7 @@ I'm a frontend developer with a strong passion for enhancing user experiences. I
 
 
 ## Languages and Tools  
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div  style="display: width:100%: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img style="margin: 10px; width: 100px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />
   </a>
